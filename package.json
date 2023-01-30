@@ -2,7 +2,7 @@
   "name": "my-project-name",
   "version": "0.1.0",
   "devDependencies": {
-    "grunt": "~1.4.0",
+    "grunt": "~1.6.0",
     "grunt-contrib-watch": "~1.1.0",
     "grunt-contrib-uglify": "~5.0.1"
   }
